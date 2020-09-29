@@ -42,7 +42,7 @@
                 <br>
                 <button name="btn_agregar" id="btn_agregar"  value="agregar" class="btn btn-primary btn-lg">Agregar</button>
                 <button name="btn_modificar" id="btn_modificar"  value="modificar" class="btn btn-primary btn-lg">Modificar</button>
-				<button name="btn_elimiar" id="btn_eliminar"  value="eliminar" class="btn btn-primary btn-lg">eliminar</button>
+				
             </form>
                 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
